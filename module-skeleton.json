@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-transfers-and-replenishment-react-inertia",
+  "capabilityKey": "planned:ecommerce:transfers-and-replenishment",
+  "presentation": "laravel-inertia-react",
+  "package": "@liberusoftware/module-ecommerce-transfers-and-replenishment-react-inertia",
+  "foundation": "module-boilerplate-react-inertia",
+  "foundationCommit": "5a2d7f53327e9648efd68af033e1876ce1cf20f0",
+  "canonicalPlan": "projects/ecommerce/nextjs/transfers-and-replenishment.md",
+  "presentationPlan": "projects/ecommerce/react/transfers-and-replenishment.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
